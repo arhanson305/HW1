@@ -1,4 +1,4 @@
-HW1 is an html and css document which is organized to optimize accesibility, while functioning as a working html website that also displays all relatavent sections of the media company's composition and its main features as a company. 
+HW1 is an html and css document which is organized to optimize accesibility, while functioning as a working html website that also displays all relavent sections of the media company's composition and its main features as a company. 
 
 The project has been edited to not only maximize accessibility for potentially disabled users, but the code itself has been refactored in order to pare down redundant functions so that a future project manager can initiate new functions without issue. For those also who are less familiar with HTML, the project has also included thorough comments for each section.
 
